@@ -1,3 +1,3 @@
 FROM node:6
 
-npm install -g serverless
+RUN npm install -g serverless
